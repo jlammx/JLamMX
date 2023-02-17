@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile applications development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on projects with Flutter to grow up and improve my skills in this technology
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jlammx) and [Mail](mailto:jorge-l-am@hotmail.com?subject=Contact_from_GitHub)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jlammx)
 
 
 ### My GitHub Stats
