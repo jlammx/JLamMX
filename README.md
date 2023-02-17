@@ -8,8 +8,12 @@
 ### My GitHub Stats
 
 <div>
-  <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jlammx&locale=en" alt="J Lam MX" />
-  <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=jlammx&locale=en&show_icons=true" alt="J Lam MX" />
+  <a href="https://github.com/jlammx">
+    <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jlammx&locale=en" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/jlammx">
+    <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=jlammx&locale=en&show_icons=true" alt="GitHub Stats" />
+  </a>
 </div>
 
 <br/>
@@ -17,7 +21,9 @@
 <details>
 <summary>:eyes: Show my most used languages</summary>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlammx&locale=en&layout=compact&langs_count=10&hide_border=false&custom_title=Top%20%Languages" alt="Top Languages" />
+    <a href="https://github.com/jlammx">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlammx&locale=en&layout=compact&langs_count=10&hide_border=false&custom_title=Top%20%Languages" alt="Top Languages" />
+    </a>
   </div>
 </details>
 
