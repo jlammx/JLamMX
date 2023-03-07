@@ -9,10 +9,10 @@
 
 <div>
   <a href="https://github.com/jlammx">
-    <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jlammx&locale=en" alt="GitHub Streak" />
+    <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jlammx&mode=weekly" alt="GitHub Streak" />
   </a>
   <a href="https://github.com/jlammx">
-    <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=jlammx&locale=en&show_icons=true" alt="GitHub Stats" />
+    <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=jlammx&locale=en&show_icons=true&count_private=true" alt="GitHub Stats" />
   </a>
 </div>
 
@@ -22,11 +22,12 @@
 <summary>:eyes: Show my most used languages</summary>
   <div>
     <a href="https://github.com/jlammx">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlammx&locale=en&layout=compact&langs_count=10&hide_border=false&custom_title=Top%20%Languages" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlammx&layout=compact&langs_count=10&custom_title=Top%20%Languages" alt="Top Languages" />
     </a>
-  </div>
+  </div> 
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
-
 
 ### Skills
 
@@ -103,7 +104,7 @@
 	</div>
 </p>
 
-<p align="center"> Last updated at 17 Feb 2023</p>
+<p align="center">Last updated at 06 Mar 2023</p>
 
 <!---
 JLamMX/JLamMX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
